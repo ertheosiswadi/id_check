@@ -1,0 +1,1 @@
+web: export GOOGLE_APPLICATION_CREDENTIALS=./IDCheck-d88e3d36180b.json && node index.js

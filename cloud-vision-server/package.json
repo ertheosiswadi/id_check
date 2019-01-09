@@ -1,0 +1,17 @@
+{
+  "name": "cloud-vision",
+  "version": "1.0.0",
+  "description": "test the google cloud vision",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ertheo Siswadi",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^2.3.4",
+    "@google-cloud/vision": "^0.24.0",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
